@@ -1,0 +1,8 @@
+1   | Pasta                | 150.00     | Starters
+2   | Momos                | 70.00      | Snacks & Street Food     
+3   | Fruit Salad          | 70.00      | Desserts
+4   | Pav Bhaji            | 90.00      | Snacks & Street Food     
+5   | Dhokla               | 40.00      | Snacks & Street Food     
+6   | Pani Puri            | 50.00      | Snacks & Street Food     
+7   | Chicken              | 250.00     | Full Dishes
+8   | Dal Makhani          | 150.00     | Full Dishes

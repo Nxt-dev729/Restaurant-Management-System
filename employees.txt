@@ -1,0 +1,11 @@
+----------------------------------------
+Name: name1
+Mobile Number: 0123456789
+Gmail ID: abcxyz@gmail.com
+Salary: 200000.00
+----------------------------------------
+Name: name2
+Mobile Number: 9876543210
+Gmail ID: abc@gmail.com
+Salary: 400000.00
+----------------------------------------
